@@ -1,0 +1,6 @@
+rubocop
+reek
+brakeman
+cane
+flay .
+roodi
