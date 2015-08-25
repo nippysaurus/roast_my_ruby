@@ -1,6 +1,6 @@
 # Roast My Ruby
 
-Runs your ruby code through the ringer.
+Runs your ruby code through rubocop, reek, brakeman, cane, flay, and roodi.
 
 # example
 
